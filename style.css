@@ -1,0 +1,217 @@
+
+.parent{
+    background-color: rgb(54, 53, 69);
+    color: white; 
+    position: relative;
+    width: 1300px;        
+}
+nav{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 130px;
+    padding-right: 90px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+    margin-top: 15px;
+}
+nav ul li a{
+    color: #61606e;
+    text-decoration: none;
+    text-transform:capitalize;
+}
+nav ul li a:hover {
+    color: white;
+    font-weight: bold;
+    transition: .4s;
+}
+.icon{
+    margin-left: 290px;
+    margin-right: 80px;
+    word-spacing: 20px;
+    color: wheat;
+}
+.parent2{ 
+    background-color: #363545;
+    color: white; 
+    position: relative;
+    width: 1300px; 
+    height: 520px;
+    margin-top: auto;
+}
+.firstpara{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 130px;
+    width: 500px;
+}
+.name{position: absolute;
+    margin-top: -5px;
+    font-size: 60px;
+}
+.line{
+    position: absolute;
+    margin-top: 80px;
+    width: 170px;
+    border-bottom: 4px solid #b68415;
+}
+.para{
+    margin-top: 110px;
+    width: 230px;
+    line-height: 25px;
+}
+img{
+    width: 500px;
+    height: 450px;
+    margin-top: 20px;
+    margin-left: -40px;
+}
+.picture{
+    background-color: #2d2d39;
+    width: 430px;
+    height: 430px;
+    border-radius: 50%;
+    margin-left: 420px;
+}
+.services {
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 850px;
+    width: 280px;
+    font-size: 20px;
+}
+.button{
+    border: none;
+    background-color: #363545;
+    color: #b68415;
+}
+.icon2{
+    color: #b68415;
+    word-spacing: 20px;
+    font-size: 25px;
+}
+.parent3{
+    background-color: #282834;
+    color: white; 
+    position: relative;
+    width: 1300px; 
+    height: 950px;
+    margin-top: auto;
+}
+.icons{
+    position: absolute;
+    background-color:#403f51;
+    width: 1000px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: -50px; 
+}
+.pic2{
+    display: inline;
+    width: 142px;
+    height: 55px;
+    margin-left: 80px;
+    margin-top: 25px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #363543;
+}
+.needs{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 130px;
+    width: 300px;
+    line-height: 27px;
+}
+td{
+    font-size: 10px;
+    width: 150px;
+}
+span{
+    color: #b68415;
+    font-size: 25px;
+    font-weight: 25px;
+}
+.pics1{
+    position: absolute;
+    width: 530px;
+    height: 140px;
+    margin-top: 140px;
+    margin-left: 600px;
+    border-bottom: 3px solid #363545;    
+}
+.pic{
+    margin-left: 0px;
+    width: 150px;
+    height: 100px;
+}
+.ui{
+    margin-top: -75px;
+    margin-left: 170px;
+    line-height: 25px;
+}
+.develop{
+    color: white;
+    font-size: 16px;
+}
+.arrow{ position: absolute;
+    margin-left: 250px;
+    margin-top: -10px;
+    font-size: 30px;
+}
+.pics2{
+    position: absolute;
+    width: 530px;
+    height: 140px;
+    margin-top: 280px;
+    margin-left: 600px;
+    border-bottom: 3px solid #363545;    
+}
+.pics3{
+    position: absolute;
+    width: 530px;
+    height: 140px;
+    margin-top: 420px;
+    margin-left: 600px;
+    border-bottom: 3px solid #363545;    
+}
+.ux{
+    position: absolute;
+    width: 330px;
+    height: 270px;
+    margin-top: 650px;
+    margin-left: 120px;
+    padding-left: 25px;
+    padding-top: 35px;
+    padding-right: 40px;
+    line-height: 25px;
+    background-color: #403f51; 
+}
+.web{
+    position: absolute;
+    width: 330px;
+    height: 270px;
+    margin-top: 650px;
+    margin-left: 460px;
+    padding-left: 25px;
+    padding-top: 35px;
+    padding-right: 30px;
+    line-height: 25px;
+    background-color: #403f51;
+}
+.mobile{
+    position: absolute;
+    width: 330px;
+    height: 270px;
+    margin-top: 650px;
+    margin-left: 800px;
+    padding-left: 25px;
+    padding-top: 35px;
+    padding-right: 30px;
+    line-height: 25px;
+    background-color: #403f51;
+}
